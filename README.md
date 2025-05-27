@@ -5,7 +5,7 @@ backend live URL(render): [https://lead-generation-backend-to-send-email.onrende
 full stack live URL (vercel): [https://lead-generation-frontend-t-git-f948d4-puneetharaj-k-rs-projects.vercel.app/
 ]()
 
-screen record link: 
+screen record link: https://drive.google.com/file/d/1W7bUDUmxXfR1MD82ddilYL_v7YbksPTV/view?usp=sharing
 
 ## 1. Frontend - `lead-gen-frontend`
 
